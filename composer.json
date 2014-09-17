@@ -35,7 +35,7 @@
         "dflydev/embedded-composer-core": "self.version"
     },
     "autoload": {
-        "psr-0": { "Dflydev\\EmbeddedComposer": "src" }
+        "psr-4": { "Dflydev\\EmbeddedComposer\\": "src" }
     },
     "extra": {
         "branch-alias": {
